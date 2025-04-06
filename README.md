@@ -1,2 +1,1 @@
-# fastcampus-jenkins
-# fastcampus-jenkins
+젠킨스 CI/CD 실습
